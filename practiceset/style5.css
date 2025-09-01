@@ -1,0 +1,11 @@
+div{
+    height: 100px;
+    width: 200px;
+    background-image: url("laura-college-K_Na5gCmh38-unsplash.jpg");
+    background-size: cover;
+    background-position: center;
+    position: fixed;
+    right: 20px;
+    top: 0px;
+
+}
